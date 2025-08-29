@@ -1,0 +1,1 @@
+This project will develop a machine learning and deep lerning  systemes to identify jellyfish species from images, distinguishing between safe and dangerous types. By comparing models such as SVM, ANN, CNN, and KNN, we aim to create an app that enhances diver safety in the Red Sea through accurate classification.
